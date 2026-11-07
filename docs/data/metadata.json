@@ -1,0 +1,66 @@
+{
+  "dataset": "arad-recreation-data",
+  "title": "Agrement și joacă în Arad — inventarele Recons",
+  "generated_at": "2026-11-07T16:40:16.905925+00:00",
+  "source_retrieved_at": "2026-11-07T16:40:16.905925+00:00",
+  "inventory_date": "2026-06-08",
+  "decision_date": "2026-08-10",
+  "record_count": 222,
+  "geocoded_count": 220,
+  "category_counts": {
+    "playgrounds": 81,
+    "leisure": 116,
+    "sports_fields": 21,
+    "dog_parks": 4
+  },
+  "subtype_counts": {
+    "playground": 81,
+    "table_tennis": 63,
+    "chess": 47,
+    "fitness": 3,
+    "adventure_equipment": 1,
+    "bbq": 2,
+    "multisport": 16,
+    "football_sand": 3,
+    "football_tartan": 2,
+    "dog_park": 4
+  },
+  "precision_counts": {
+    "building_reference": 83,
+    "street_reference": 59,
+    "osm_amenity_point": 10,
+    "intersection_reference": 28,
+    "school_reference": 11,
+    "osm_amenity_center": 16,
+    "unknown": 2,
+    "park_reference": 13
+  },
+  "source_urls": [
+    "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open="
+  ],
+  "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+  "source_pdf_pages": 107,
+  "scope": "222 de poziții din patru inventare la data de 08.06.2026, anexate documentației HCL 453/10.08.2026. Pozițiile pot avea același amplasament; nu reprezintă 222 de locații distincte.",
+  "limitations": [
+    "Inventarierea nu confirmă funcționarea, orarul, accesibilitatea, siguranța sau accesul public actual. Unele dotări sunt în/lângă școli.",
+    "Nicio coordonată nu provine din PDF. Toate localizările sunt îmbogățiri OpenStreetMap; precizia și obiectele de referință sunt publicate pentru fiecare rând.",
+    "GeoJSON conține puncte WGS84. Un reper de parc, școală, clădire, intersecție sau stradă nu reprezintă poziția exactă a echipamentului ori intrarea sa.",
+    "Înregistrările repetate sunt păstrate separat. Două locuri pentru câini au aceeași descriere Parcul Strada Mărului; un reper comun de parc nu stabilește amplasamente distincte.",
+    "La poziția de agrement 67, sursa spune Cartierul Alfa, deși descrie relocarea pe Strada Simion Popa. Cartierul sursei nu este corectat tacit.",
+    "Numărul de rânduri nu este numărul de piese: unele descrieri indică explicit 2 sau 4 bucăți.",
+    "Fără potrivire verificabilă, latitude/longitude și geometry rămân null. Nu se folosește centrul orașului ca soluție de rezervă."
+  ],
+  "license": "Codul proiectului: MIT. Nu a fost identificată o licență explicită pentru reutilizarea datelor oficiale. Îmbogățirea OpenStreetMap: ODbL-1.0, © OpenStreetMap contributors. Vezi DATA_LICENSE.md.",
+  "geocoding_source": {
+    "endpoint": "https://overpass-api.de/api/interpreter",
+    "query": "[out:json][timeout:90];(\nnwr[\"leisure\"](46.115,21.235,46.23,21.405);\nnwr[\"sport\"](46.115,21.235,46.23,21.405);\nnwr[\"amenity\"~\"^(school|college|university|bbq|place_of_worship)$\"](46.115,21.235,46.23,21.405);\nnwr[\"addr:housenumber\"](46.115,21.235,46.23,21.405);\nway[\"highway\"][\"name\"](46.115,21.235,46.23,21.405);\n);out geom;",
+    "retrieved_at": "2026-11-07T16:41:32.085226+00:00",
+    "timestamp_osm_base": "2026-11-07T16:40:21Z",
+    "sha256": "22c7463019a8cbb29429bf3c9c21bf84a718c3477c87503a4cecbc75f28618fe",
+    "license": "ODbL-1.0",
+    "attribution": "© OpenStreetMap contributors",
+    "osm_element_count": 21482,
+    "method": "Local deterministic matching against cached OSM features; no public per-address geocoder.",
+    "matching_confidence_is_not_survey_accuracy": true
+  }
+}

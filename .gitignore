@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.cache/
+tmp/
+node_modules/
+.openai/

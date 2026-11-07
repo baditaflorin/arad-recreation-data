@@ -1,0 +1,207 @@
+{
+  "title": "Joacă și agrement Arad",
+  "subtitle": "Inventarele Recons: locuri de joacă, sport, agrement și parcuri pentru câini",
+  "dataset": "recreation",
+  "repo": "arad-recreation-data",
+  "owner": "baditaflorin",
+  "count": 222,
+  "geometry_count": 220,
+  "metadata": {
+    "dataset": "arad-recreation-data",
+    "title": "Agrement și joacă în Arad — inventarele Recons",
+    "generated_at": "2026-11-07T16:40:16.905925+00:00",
+    "source_retrieved_at": "2026-11-07T16:40:16.905925+00:00",
+    "inventory_date": "2026-06-08",
+    "decision_date": "2026-08-10",
+    "record_count": 222,
+    "geocoded_count": 220,
+    "category_counts": {
+      "playgrounds": 81,
+      "leisure": 116,
+      "sports_fields": 21,
+      "dog_parks": 4
+    },
+    "subtype_counts": {
+      "playground": 81,
+      "table_tennis": 63,
+      "chess": 47,
+      "fitness": 3,
+      "adventure_equipment": 1,
+      "bbq": 2,
+      "multisport": 16,
+      "football_sand": 3,
+      "football_tartan": 2,
+      "dog_park": 4
+    },
+    "precision_counts": {
+      "building_reference": 83,
+      "street_reference": 59,
+      "osm_amenity_point": 10,
+      "intersection_reference": 28,
+      "school_reference": 11,
+      "osm_amenity_center": 16,
+      "unknown": 2,
+      "park_reference": 13
+    },
+    "source_urls": [
+      "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open="
+    ],
+    "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+    "source_pdf_pages": 107,
+    "scope": "222 de poziții din patru inventare la data de 08.06.2026, anexate documentației HCL 453/10.08.2026. Pozițiile pot avea același amplasament; nu reprezintă 222 de locații distincte.",
+    "limitations": [
+      "Inventarierea nu confirmă funcționarea, orarul, accesibilitatea, siguranța sau accesul public actual. Unele dotări sunt în/lângă școli.",
+      "Nicio coordonată nu provine din PDF. Toate localizările sunt îmbogățiri OpenStreetMap; precizia și obiectele de referință sunt publicate pentru fiecare rând.",
+      "GeoJSON conține puncte WGS84. Un reper de parc, școală, clădire, intersecție sau stradă nu reprezintă poziția exactă a echipamentului ori intrarea sa.",
+      "Înregistrările repetate sunt păstrate separat. Două locuri pentru câini au aceeași descriere Parcul Strada Mărului; un reper comun de parc nu stabilește amplasamente distincte.",
+      "La poziția de agrement 67, sursa spune Cartierul Alfa, deși descrie relocarea pe Strada Simion Popa. Cartierul sursei nu este corectat tacit.",
+      "Numărul de rânduri nu este numărul de piese: unele descrieri indică explicit 2 sau 4 bucăți.",
+      "Fără potrivire verificabilă, latitude/longitude și geometry rămân null. Nu se folosește centrul orașului ca soluție de rezervă."
+    ],
+    "license": "Codul proiectului: MIT. Nu a fost identificată o licență explicită pentru reutilizarea datelor oficiale. Îmbogățirea OpenStreetMap: ODbL-1.0, © OpenStreetMap contributors. Vezi DATA_LICENSE.md.",
+    "geocoding_source": {
+      "endpoint": "https://overpass-api.de/api/interpreter",
+      "query": "[out:json][timeout:90];(\nnwr[\"leisure\"](46.115,21.235,46.23,21.405);\nnwr[\"sport\"](46.115,21.235,46.23,21.405);\nnwr[\"amenity\"~\"^(school|college|university|bbq|place_of_worship)$\"](46.115,21.235,46.23,21.405);\nnwr[\"addr:housenumber\"](46.115,21.235,46.23,21.405);\nway[\"highway\"][\"name\"](46.115,21.235,46.23,21.405);\n);out geom;",
+      "retrieved_at": "2026-11-07T16:41:32.085226+00:00",
+      "timestamp_osm_base": "2026-11-07T16:40:21Z",
+      "sha256": "22c7463019a8cbb29429bf3c9c21bf84a718c3477c87503a4cecbc75f28618fe",
+      "license": "ODbL-1.0",
+      "attribution": "© OpenStreetMap contributors",
+      "osm_element_count": 21482,
+      "method": "Local deterministic matching against cached OSM features; no public per-address geocoder.",
+      "matching_confidence_is_not_survey_accuracy": true
+    }
+  },
+  "files": [
+    {
+      "name": "dog_parks.csv",
+      "path": "data/dog_parks.csv",
+      "bytes": 4729,
+      "sha256": "b83f432cb08dc50458210e3160b2d6822961fc76c26a23e65fa23654407cb837"
+    },
+    {
+      "name": "dog_parks.geojson",
+      "path": "data/dog_parks.geojson",
+      "bytes": 8998,
+      "sha256": "97a83dc4893a6359357b0b4830052150972edce73ec5902bca938b211a83e7af"
+    },
+    {
+      "name": "dog_parks.json",
+      "path": "data/dog_parks.json",
+      "bytes": 7504,
+      "sha256": "f585e9b44df1a33d355cc4feb0c0f048ff55bfff220d8d58a483589955479be1"
+    },
+    {
+      "name": "geocoding-unmatched.json",
+      "path": "data/geocoding-unmatched.json",
+      "bytes": 358,
+      "sha256": "f4dab7d0478138920d6b81c6d59700fc9352e38a91f94581ebf4c53627130597"
+    },
+    {
+      "name": "leisure.csv",
+      "path": "data/leisure.csv",
+      "bytes": 134297,
+      "sha256": "6ee5707ef64cf552c81e28731c67e00bda2cef7b375e3c7ca95450c21f977914"
+    },
+    {
+      "name": "leisure.geojson",
+      "path": "data/leisure.geojson",
+      "bytes": 270315,
+      "sha256": "d050cdc5899c783484f34832b28be0818e98b5ff6cec89ac154a50efd32e6509"
+    },
+    {
+      "name": "leisure.json",
+      "path": "data/leisure.json",
+      "bytes": 227854,
+      "sha256": "032ba3f8cc32ed2d09ca5c022f524c3b0669cc05d0aab78e3086e5ab95dd1b8b"
+    },
+    {
+      "name": "metadata.json",
+      "path": "data/metadata.json",
+      "bytes": 3694,
+      "sha256": "457edc5c00b24dbb67703097b927fa50aa2c07331f34533e34e8e6166dc992ad"
+    },
+    {
+      "name": "playgrounds.csv",
+      "path": "data/playgrounds.csv",
+      "bytes": 104957,
+      "sha256": "6c5c1f248b16237f01a27899c44eaa0837d8fb9f0bc124e05ee8a7667ca43d88"
+    },
+    {
+      "name": "playgrounds.geojson",
+      "path": "data/playgrounds.geojson",
+      "bytes": 199490,
+      "sha256": "56f77448e718d753c5bf37a164fc22a28956ee5a520383acef478877f6cc7db6"
+    },
+    {
+      "name": "playgrounds.json",
+      "path": "data/playgrounds.json",
+      "bytes": 169637,
+      "sha256": "2b20707c77eac1f05a8db24ee901b9ea86cb0cc656b00853cbf5fcd4ad4aacad"
+    },
+    {
+      "name": "records.csv",
+      "path": "data/records.csv",
+      "bytes": 267219,
+      "sha256": "6cd6756d4e131e75ef0c6b97b1d4db9b3a6f21d99d671a7d396ba18a0a82c270"
+    },
+    {
+      "name": "records.geojson",
+      "path": "data/records.geojson",
+      "bytes": 527340,
+      "sha256": "59d7fffa3279fa9e2a872de7b883d268e4c9fcacaeb18dc788e63a80e7f9f90f"
+    },
+    {
+      "name": "records.json",
+      "path": "data/records.json",
+      "bytes": 446084,
+      "sha256": "b9be1af5c0eff9ed1a185af81840a078fea183ffa35c221e5e765723d272fe30"
+    },
+    {
+      "name": "schema.json",
+      "path": "data/schema.json",
+      "bytes": 2660,
+      "sha256": "2df6df2c1608fe4908d2e20d39599d7abbbc8d221887b4ee45fd5e3321d1ae22"
+    },
+    {
+      "name": "sports_fields.csv",
+      "path": "data/sports_fields.csv",
+      "bytes": 24640,
+      "sha256": "1fdf4b5951f188af2865cc6a068509da934ca97bd49317a1a24ea71cf5543124"
+    },
+    {
+      "name": "sports_fields.geojson",
+      "path": "data/sports_fields.geojson",
+      "bytes": 48699,
+      "sha256": "96dd63716cbb3cf8c9afcda3ef67c9bf876348fd055b49708179a2d30c60e894"
+    },
+    {
+      "name": "sports_fields.json",
+      "path": "data/sports_fields.json",
+      "bytes": 41098,
+      "sha256": "83b402c7592fc67ac2cfcd02a1ae75d7ea1827bbbadf247a5071dcc10db3314b"
+    }
+  ],
+  "categories": [
+    {
+      "id": "playgrounds",
+      "label": "Locuri de joacă",
+      "count": 81
+    },
+    {
+      "id": "leisure",
+      "label": "Agrement",
+      "count": 116
+    },
+    {
+      "id": "sports_fields",
+      "label": "Terenuri de sport",
+      "count": 21
+    },
+    {
+      "id": "dog_parks",
+      "label": "Parcuri pentru câini",
+      "count": 4
+    }
+  ]
+}

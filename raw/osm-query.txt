@@ -1,0 +1,7 @@
+[out:json][timeout:90];(
+nwr["leisure"](46.115,21.235,46.23,21.405);
+nwr["sport"](46.115,21.235,46.23,21.405);
+nwr["amenity"~"^(school|college|university|bbq|place_of_worship)$"](46.115,21.235,46.23,21.405);
+nwr["addr:housenumber"](46.115,21.235,46.23,21.405);
+way["highway"]["name"](46.115,21.235,46.23,21.405);
+);out geom;

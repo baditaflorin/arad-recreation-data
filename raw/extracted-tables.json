@@ -1,0 +1,1708 @@
+{
+  "96": [
+    [
+      "Nr. crt.",
+      "Nr.\ncrt./cartier",
+      "Cod loc de\njoacă",
+      "Denumire loc de joacă pentru copii",
+      "Cartier"
+    ],
+    [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    [
+      "Secțiunea I. Cartierul 6 Vânători - COD 1",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "1.",
+      "1.",
+      "cod 01-01",
+      "Locul de joacă cod 01-01 - Cartierul 6 Vânători -\nStrada Rarău intersecție cu Calea 6 Vânători, în\nspatele Blocului V1 Scara B, respectiv V3 Scara\nA - curte interioară",
+      "Cartierul 6 Vânători"
+    ],
+    [
+      "2.",
+      "2.",
+      "cod 01-02",
+      "Locul de joacă cod 01-02 - Cartierul 6 Vânători -\nStrada Izoi intersecție cu Strada Curtici, în\nspatele Blocului V3-4",
+      "Cartierul 6 Vânători"
+    ],
+    [
+      "Secțiunea II. Cartierul Alfa - COD 2",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "3.",
+      "1.",
+      "cod 02-01",
+      "Locul de joacă cod 02-01 - Cartierul Alfa -\nStrada Mărului, în Parcul Strada Mărului",
+      "Cartierul Alfa"
+    ],
+    [
+      "4.",
+      "2.",
+      "cod 02-02",
+      "Locul de joacă cod 02-02 - Cartierul Alfa -\nStrada Condurașilor, între Blocul 63 Scara A și\nBlocul 64 Scara A",
+      "Cartierul Alfa"
+    ],
+    [
+      "5.",
+      "3.",
+      "cod 02-03",
+      "Locul de joacă cod 02-03 - Cartierul Alfa -\nStrada Barbu Lăutaru intersecție cu Strada Prof.\nDr. Aurel Ardelean, între Blocul 49 Scara B și\nBlocul 48 Scara A",
+      "Cartierul Alfa"
+    ],
+    [
+      "6.",
+      "4.",
+      "cod 02-04",
+      "Locul de joacă cod 02-04 - Cartierul Alfa -\nStrada Barbu Lăutaru intersecție cu Strada\nAurel Suciu și Strada Luceafărului, în spatele\nBlocului 40 - curte interioară",
+      "Cartierul Alfa"
+    ],
+    [
+      "7.",
+      "5.",
+      "cod 02-05",
+      "Locul de joacă cod 02-05 - Cartierul Alfa -\nStrada Tunarilor intersecție cu Strada\nLuceafărului, în fața Blocului 15 Scara A,\nrespectiv lângă Fast Park 1 Strada Luceafărului",
+      "Cartierul Alfa"
+    ],
+    [
+      "8.",
+      "6.",
+      "cod 02-06",
+      "Locul de joacă cod 02-06 - Cartierul Alfa -\nStrada Cărămidarilor intersecție cu Strada\nZorilor, în fața Blocului 2, respectiv pe faleză",
+      "Cartierul Alfa"
+    ],
+    [
+      "Secțiunea III. Cartierul Aradul Nou - partea dreaptă (tronson Calea Timișorii înspre Cartierul Sânnicolaul Mic) - COD 3",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "9.",
+      "1.",
+      "cod 03-01",
+      "Locul de joacă cod 03-01 - Cartierul Aradul Nou\n- partea dreaptă - Strada Caransebeș intersecție\ncu Strada Zimbrului",
+      "Cartierul Aradul Nou - partea dreaptă"
+    ],
+    [
+      "10.",
+      "2.",
+      "cod 03-02",
+      "Locul de joacă cod 03-02 - Cartierul Aradul Nou\n- partea dreaptă - Strada Caransebeș intersecție\ncu Strada Ștefan cel Mare, între Blocul 10 Scara\nB și Blocul 12 Scara A - curte interioară",
+      "Cartierul Aradul Nou - partea dreaptă"
+    ],
+    [
+      "11.",
+      "3.",
+      "cod 03-03",
+      "Locul de joacă cod 03-03 - Cartierul Aradul Nou\n- partea dreaptă - Strada Sulina intersecție cu\nStrada Muncii",
+      "Cartierul Aradul Nou - partea dreaptă"
+    ],
+    [
+      "Secțiunea IV. Cartierul Aradul Nou - partea stângă - COD 4",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "12.",
+      "1.",
+      "cod 04-01",
+      "Locul de joacă cod 04-01 - Cartierul Aradul Nou\n- partea stângă - Strada Posada, în interiorul\ncurții de la Școala Generală Nr. 20 (Liceul\nTeoretic Adam Müller Guttenbrunn)",
+      "Cartierul Aradul Nou - partea stângă"
+    ],
+    [
+      "13.",
+      "2.",
+      "cod 04-02",
+      "Locul de joacă cod 04-02 - Cartierul Aradul Nou\n- partea stângă - Strada Colonel Caius\nMiorenescu intersecție cu Strada Posada",
+      "Cartierul Aradul Nou - partea stângă"
+    ],
+    [
+      "14.",
+      "3.",
+      "cod 04-03",
+      "Locul de joacă cod 04-03 - Cartierul Aradul Nou\n- partea stângă - Strada Constituției Nr. 128\nintersecție cu Strada Câmpia Turzii",
+      "Cartierul Aradul Nou - partea stângă"
+    ],
+    [
+      "15.",
+      "4.",
+      "cod 04-04",
+      "Locul de joacă cod 04-04 - Cartierul Aradul Nou\n- partea stângă - Strada Agronomului",
+      "Cartierul Aradul Nou - partea stângă"
+    ],
+    [
+      "Secțiunea V. Cartierul Bujac - COD 5",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "16.",
+      "1.",
+      "cod 05-01",
+      "Locul de joacă cod 05-01 - Cartierul Bujac -\nStrada Independenței intersecție cu Strada\nNăsăud",
+      "Cartierul Bujac"
+    ]
+  ],
+  "97": [
+    [
+      "Nr. crt.",
+      "Nr.\ncrt./cartier",
+      "Cod loc de\njoacă",
+      "Denumire loc de joacă pentru copii",
+      "Cartier"
+    ],
+    [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    [
+      "17.",
+      "2.",
+      "cod 05-02",
+      "Locul de joacă cod 05-02 - Cartierul Bujac -\nStrada Trotușului intersecție cu Strada Petru\nMaior",
+      "Cartierul Bujac"
+    ],
+    [
+      "Secțiunea VI. Cartierul Centru - partea dreaptă - COD 6",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "18.",
+      "1.",
+      "cod 06-01",
+      "Locul de joacă cod 06-01 - Cartierul Centru -\npartea dreaptă - Parcul Aventura Voinicilor\namplasat pe Splaiul General David Praporgescu\nintersecție cu Strada Marcel Olinescu",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "19.",
+      "2.",
+      "cod 06-02",
+      "Locul de joacă cod 06-02 - Cartierul Centru -\npartea dreaptă - Parcul Europa amplasat pe\nSplaiul General David Praporgescu intersecție cu\nAleea Răsăritului",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "20.",
+      "3.",
+      "cod 06-03",
+      "Locul de joacă cod 06-03 - Cartierul Centru -\npartea dreaptă - Parcul Copiilor \"Zsolt Torok\"\namplasat pe Bulevardul General Dragalina\nintersecție cu Strada Aviator Georgescu",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "21.",
+      "4.",
+      "cod 06-04",
+      "Locul de joacă cod 06-04 - Cartierul Centru -\npartea dreaptă - Calea Iuliu Maniu, între Blocul\nP1 și Blocul P2, respectiv în lateralul Blocului B\nScara A",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "22.",
+      "5.",
+      "cod 06-05",
+      "Locul de joacă cod 06-05 - Cartierul Centru -\npartea dreaptă - Strada Mărțișor intersecție cu\nStrada Udrea, între Blocul I și Blocul N Scara A",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "23.",
+      "6.",
+      "cod 06-06",
+      "Locul de joacă cod 06-06 - Cartierul Centru -\npartea dreaptă - Piața Academician Caius Iacob\nintersecție cu Strada Nelu Aristide Dragomir,\nvizavi de Blocul R Scara B",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "Secțiunea VII. Cartierul Centru - partea stângă - COD 7",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "24.",
+      "1.",
+      "cod 07-01",
+      "Locul de joacă cod 07-01 - Cartierul Centru -\npartea stângă - Parcul Corneliu Coposu amplasat\npe Strada Corneliu intersecție cu Strada Miron\nCostin, în spatele Casei de Cultură a Sindicatelor",
+      "Cartierul Centru - partea stângă"
+    ],
+    [
+      "25.",
+      "2.",
+      "cod 07-02",
+      "Locul de joacă cod 07-02 - Cartierul Centru -\npartea stângă - Bulevardul Revoluției intersecție\ncu Strada Andrei Mureșanu, în spatele Blocului\nNr. 26-38 Scara D - curte interioară",
+      "Cartierul Centru - partea stângă"
+    ],
+    [
+      "26.",
+      "3.",
+      "cod 07-03",
+      "Locul de joacă cod 07-03 - Cartierul Centru -\npartea stângă - Aleea Făget (Piața Spitalului), în\nspatele Blocului 2 Scara A - curte interioară",
+      "Cartierul Centru - partea stângă"
+    ],
+    [
+      "Secțiunea VIII. Cartierul Confecții - COD 8",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "27.",
+      "1.",
+      "cod 08-01",
+      "Locul de joacă cod 08-01 - Cartierul Confecții -\nStrada Abatorului intersecție cu Strada Târgului,\nîn lateralul Blocului 21 Scara B",
+      "Cartierul Confecții"
+    ],
+    [
+      "28.",
+      "2.",
+      "cod 08-02",
+      "Locul de joacă cod 08-02 - Cartierul Confecții -\nStrada Streiului, între Blocul 14 Scara C și\nBlocul 27 Scara B",
+      "Cartierul Confecții"
+    ],
+    [
+      "29.",
+      "3.",
+      "cod 08-03",
+      "Locul de joacă cod 08-03 - Cartierul Confecții -\nStrada Baladei, în spatele Blocului Nr. 9",
+      "Cartierul Confecții"
+    ],
+    [
+      "Secțiunea IX. Cartierul Gai - COD 9",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "30.",
+      "1.",
+      "cod 09-01",
+      "Locul de joacă cod 09-01 - Cartierul Gai - Parcul\nGai amplasat pe Strada Dunării intersecție cu\nStrada Hatman Arbore",
+      "Cartierul Gai"
+    ],
+    [
+      "31.",
+      "2.",
+      "cod 09-02",
+      "Locul de joacă cod 09-02 - Cartierul Gai - Strada\nSpătarul Preda intersecție cu Nicolae Golescu",
+      "Cartierul Gai"
+    ],
+    [
+      "32.",
+      "3.",
+      "cod 09-03",
+      "Locul de joacă cod 09-03 - Cartierul Gai - Strada\nIon Creangă Nr. 15, lângă parcarea Mănăstirii\nGai",
+      "Cartierul Gai"
+    ],
+    [
+      "Secțiunea X. Cartierul Grădiște - partea dreaptă - COD 10",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "33.",
+      "1.",
+      "cod 10-01",
+      "Locul de joacă cod 10-01 - Cartierul Grădiște -\npartea dreaptă - Aleea Romanța, în spatele\nBlocului S Scara D, respectiv lângă Școala\nGimnazială Nr. 13 Aron Cotruș",
+      "Cartierul Grădiște - partea dreaptă"
+    ],
+    [
+      "34.",
+      "2.",
+      "cod 10-02",
+      "Locul de joacă cod 10-02 - Cartierul Grădiște -\npartea dreaptă - Strada Petru Rareș, lângă\nGrădinița PN 10 Mugurel, respectiv în fața\nBlocului R Scara D",
+      "Cartierul Grădiște - partea dreaptă"
+    ]
+  ],
+  "98": [
+    [
+      "Nr. crt.",
+      "Nr.\ncrt./cartier",
+      "Cod loc de\njoacă",
+      "Denumire loc de joacă pentru copii",
+      "Cartier"
+    ],
+    [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    [
+      "35.",
+      "3.",
+      "cod 10-03",
+      "Locul de joacă cod 10-03 - Cartierul Grădiște -\npartea dreaptă - Strada Toporaș intersecție cu\nStrada Arcașilor",
+      "Cartierul Grădiște - partea dreaptă"
+    ],
+    [
+      "36.",
+      "4.",
+      "cod 10-04",
+      "Locul de joacă cod 10-04 - Cartierul Grădiște -\npartea dreaptă - Strada Zsigmond Moricz\nintersecție cu Strada Ioan Budai-Deleanu",
+      "Cartierul Grădiște - partea dreaptă"
+    ],
+    [
+      "Secțiunea XI. Cartierul Grădiște - partea stângă - COD 11",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "37.",
+      "1.",
+      "cod 11-01",
+      "Locul de joacă cod 11-01 - Cartierul Grădiște -\npartea stângă - Strada Gorunului intersecție cu\nStrada Rândunicii și Strada Vezuviu",
+      "Cartierul Grădiște - partea stângă"
+    ],
+    [
+      "Secțiunea XII. Cartierul I. G. Duca (Calea Aurel Vlaicu - partea dreaptă) - COD 12",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "38.",
+      "1.",
+      "cod 12-01",
+      "Locul de joacă cod 12-01 - Cartierul I. G. Duca -\nCalea Aurel Vlaicu intersecție cu Strada Făt\nFrumos, în fața Blocului A1-3, respectiv lângă\nstația Mol",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "39.",
+      "2.",
+      "cod 12-02",
+      "Locul de joacă cod 12-02 - Cartierul I. G. Duca -\nStrada Făt Frumos, în spatele Blocului A4 Scara\nC",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "40.",
+      "3.",
+      "cod 12-03",
+      "Locul de joacă cod 12-03 - Cartierul I. G. Duca -\nAleea Saturn, în fața Blocului A13 Scara A",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "41.",
+      "4.",
+      "cod 12-04",
+      "Locul de joacă cod 12-04 - Cartierul I. G. Duca -\nAleea Saturn, în fața Blocului A11 Scara A -\ncurte interioară",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "42.",
+      "5.",
+      "cod 12-05",
+      "Locul de joacă cod 12-05 - Cartierul I. G. Duca -\nAleea Saturn, în spatele Blocului A12 Scara A -\ncurte interioară",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "43.",
+      "6.",
+      "cod 12-06",
+      "Locul de joacă cod 12-06 - Cartierul I. G. Duca -\nStrada Poetului intersecție cu Aleea Saturn, în\nfața Blocului A22 Scara B, lângă sensul giratoriu",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "44.",
+      "7.",
+      "cod 12-07",
+      "Locul de joacă cod 12-07 - Cartierul I. G. Duca -\nCalea Aurel Vlaicu intersecție cu Strada\nFragilor, în lateralul Blocului B21 Scara B",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "45.",
+      "8.",
+      "cod 12-08",
+      "Locul de joacă cod 12-08 - Cartierul I. G. Duca -\nStrada Dorului, între Blocul B6 și Blocul B7",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "46.",
+      "9.",
+      "cod 12-09",
+      "Locul de joacă cod 12-09 - Cartierul I. G. Duca -\nStrada Fulgerului, în fața Blocului Z28 Scara D",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "47.",
+      "10.",
+      "cod 12-10",
+      "Locul de joacă cod 12-10 - Cartierul I. G. Duca -\nStrada Frații Neumann intersecție cu Strada\nBumbacului, lângă Penny Market UTA",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "48.",
+      "11.",
+      "cod 12-11",
+      "Locul de joacă cod 12-11 - Cartierul I. G. Duca -\nStrada Ursului, în spatele Blocului 2",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "49.",
+      "12.",
+      "cod 12-12",
+      "Locul de joacă cod 12-12 - Cartierul I. G. Duca -\nStrada Stupilor, în fața Blocului A45 Scara A",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "Secțiunea XIII. Cartierul Micălaca - Zona 100-200 - COD 13",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "50.",
+      "1.",
+      "cod 13-01",
+      "Locul de joacă cod 13-01 - Cartierul Micălaca -\nZona 100-200 - Strada George Byron, în fața\nBlocului 102 Scara D",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "51.",
+      "2.",
+      "cod 13-02",
+      "Locul de joacă cod 13-02 - Cartierul Micălaca -\nZona 100-200 - Strada Prieteniei, în spatele\nBlocului 135 Scara B - curte interioară",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "52.",
+      "3.",
+      "cod 13-03",
+      "Locul de joacă cod 13-03 - Cartierul Micălaca -\nZona 100-200 - Strada Mioriței, în spatele\nBlocului 164 Scara A - curte interioară",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "53.",
+      "4.",
+      "cod 13-04",
+      "Locul de joacă cod 13-04 - Cartierul Micălaca -\nZona 100-200 - Strada Mioriței, în spatele\nBlocului 207, respectiv Blocului 240 - curte\ninterioară",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "54.",
+      "5.",
+      "cod 13-05",
+      "Locul de joacă cod 13-05 - Cartierul Micălaca -\nZona 100-200 - Strada Milova, în curtea Școlii\nGenerale Regina Maria, respectiv în lateralul\nBlocului 155",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "55.",
+      "6.",
+      "cod 13-06",
+      "Locul de joacă cod 13-06 - Cartierul Micălaca -\nZona 100-200 - Strada Simfoniei, între Blocul 199\nScara B și Blocul 196 , respectiv în spatele\nBlocului 190 Scara B",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "56.",
+      "7.",
+      "cod 13-07",
+      "Locul de joacă cod 13-07 - Cartierul Micălaca -\nZona 100-200 - Strada Săvârșin, în fața Blocului\n173 Scara B",
+      "Cartierul Micălaca - Zona 100-200"
+    ]
+  ],
+  "99": [
+    [
+      "Nr. crt.",
+      "Nr.\ncrt./cartier",
+      "Cod loc de\njoacă",
+      "Denumire loc de joacă pentru copii",
+      "Cartier"
+    ],
+    [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    [
+      "57.",
+      "8.",
+      "cod 13-08",
+      "Locul de joacă cod 13-08 - Cartierul Micălaca -\nZona 100-200 - Strada Simion Popa intersecție cu\nStrada Pășunii, în lateralul Blocului 229 Scara A",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "58.",
+      "9.",
+      "cod 13-09",
+      "Locul de joacă cod 13-09 - Cartierul Micălaca -\nZona 100-200 - Strada Voinicilor intersecție cu\nAleea Borsec, în lateralul Blocului 245 Scara C",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "Secțiunea XIV. Cartierul Micălaca - Zona 300 - COD 14",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "59.",
+      "1.",
+      "cod 14-01",
+      "Locul de joacă cod 14-01 - Cartierul Micălaca -\nZona 300 - Strada Ilie Măduță, între Blocul 327\nScara A și Blocul 326 Scara B",
+      "Cartierul Micălaca - Zona 300"
+    ],
+    [
+      "60.",
+      "2.",
+      "cod 14-02",
+      "Locul de joacă cod 14-02 - Cartierul Micălaca -\nZona 300 - Splaiul General Gheorghe Magheru\nintersecție cu Strada Dr. Cornel Radu, vizavi de\nsediul OCPI Arad, respectiv lângă Blocul 331\nScara B",
+      "Cartierul Micălaca - Zona 300"
+    ],
+    [
+      "61.",
+      "3.",
+      "cod 14-03",
+      "Locul de joacă cod 14-03 - Cartierul Micălaca -\nZona 300 - Strada Alexandru T. Stamatiad\nintersecție cu Strada Nicolae Titulescu, lângă\nBlocul ANL 6, respectiv în spatele stației Lukoil",
+      "Cartierul Micălaca - Zona 300"
+    ],
+    [
+      "62.",
+      "4.",
+      "cod 14-04",
+      "Locul de joacă cod 14-04 - Cartierul Micălaca -\nZona 300 - Splaiul General Gheorghe Magheru\nNr. 363 intersecție cu Strada Alexandru T.\nStamatiad, lângă podul rutier Micălaca -\nBulevardul Nicolae Titulescu, lângă Gemi\nCenter, respectiv în lateralul Blocului 362 Scara\nA",
+      "Cartierul Micălaca - Zona 300"
+    ],
+    [
+      "63.",
+      "5.",
+      "cod 14-05",
+      "Locul de joacă cod 14-05 - Cartierul Micălaca -\nZona 300 - Parcul Zona 300 amplasat Bulevardul\nNicolae Titulescu",
+      "Cartierul Micălaca - Zona 300"
+    ],
+    [
+      "Secțiunea XV. Cartierul Micălaca - Zona 500-600-700 - COD 15",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "64.",
+      "1.",
+      "cod 15-01",
+      "Locul de joacă cod 15-01 - Cartierul Micălaca -\nZona 500-600-700 - Strada Alba Iulia, între\nBlocul 581 și Blocul 582",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ],
+    [
+      "65.",
+      "2.",
+      "cod 15-02",
+      "Locul de joacă cod 15-02 - Cartierul Micălaca -\nZona 500-600-700 - Strada Zalău, între Blocul\n504 și Blocul 528, respectiv în fața Blocului 527\nScara A",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ],
+    [
+      "66.",
+      "3.",
+      "cod 15-03",
+      "Locul de joacă cod 15-03 - Cartierul Micălaca -\nZona 500-600-700 - Strada Tușnad, în spatele\nBlocului 506 Scara C",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ],
+    [
+      "67.",
+      "4.",
+      "cod 15-04",
+      "Locul de joacă cod 15-04 - Cartierul Micălaca -\nZona 500-600-700 - Parcul Sfânta Maria\namplasat pe Strada Dreptății",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ],
+    [
+      "68.",
+      "5.",
+      "cod 15-05",
+      "Locul de joacă cod 15-05 - Cartierul Micălaca -\nZona 500-600-700 - Strada Voinicilor, între\nBlocul A1 și Blocul 5AB Scara B, respectiv în\nlateralul Blocului B1",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ],
+    [
+      "69.",
+      "6.",
+      "cod 15-06",
+      "Locul de joacă cod 15-06 - Cartierul Micălaca -\nZona 500-600-700 - Strada Voinicilor, în spatele\nBlocului C3",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ],
+    [
+      "Secțiunea XVI. Cartierul Poltura - COD 16",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "70.",
+      "1.",
+      "cod 16-01",
+      "Locul de joacă cod 16-01 - Cartierul Poltura -\nStrada Poetului intersecție cu Strada Poetului,\nlângă Biserica Baptistă Osana",
+      "Cartierul Poltura"
+    ],
+    [
+      "71.",
+      "2.",
+      "cod 16-02",
+      "Locul de joacă cod 16-02 - Cartierul Poltura -\nParcul Pioster amplasat pe Strada Munteniei\nlegătură cu Strada Moldovei",
+      "Cartierul Poltura"
+    ],
+    [
+      "Secțiunea XVII. Cartierul Sânnicolaul Mic - COD 17",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "72.",
+      "1.",
+      "cod 17-01",
+      "Locul de joacă cod 17-01 - Cartierul Sânnicolaul\nMic - Strada Frunzei, în spatele Blocului Nr. 1",
+      "Cartierul Sânnicolaul Mic"
+    ],
+    [
+      "73.",
+      "2.",
+      "cod 17-02",
+      "Locul de joacă cod 17-02 - Cartierul Sânnicolaul\nMic - Strada Steagului intersecție cu Strada\nȘtefan Zarie, lângă Biserica Ortodoxă Sf. Mare\nMucenic Gheorghe",
+      "Cartierul Sânnicolaul Mic"
+    ],
+    [
+      "Secțiunea XVIII. Cartierul Subcetate - COD 18",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "74.",
+      "1.",
+      "cod 18-01",
+      "Locul de joacă cod 18-01 - Cartierul Subcetate -\nStrada Redutei intersecție cu Strada Eugen Popa,\nvizavi de Bazinul de Polo",
+      "Cartierul Subcetate"
+    ],
+    [
+      "Secțiunea XIX. Cartierul Șega (Calea Aurel Vlaicu - partea stângă) - COD 19",
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "100": [
+    [
+      "Nr. crt.",
+      "Nr.\ncrt./cartier",
+      "Cod loc de\njoacă",
+      "Denumire loc de joacă pentru copii",
+      "Cartier"
+    ],
+    [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    [
+      "75.",
+      "1.",
+      "cod 19-03",
+      "Locul de joacă cod 19-03 - Cartierul Șega - Aleea\nDenza, în spatele Blocului X12 Scara C - curte\ninterioară",
+      "Cartierul Șega"
+    ],
+    [
+      "76.",
+      "2.",
+      "cod 19-02",
+      "Locul de joacă cod 19-02 - Cartierul Șega - Aleea\nPredeal, în spatele Blocului 2B Scara A, respectiv\nlângă magazinul Remarkt",
+      "Cartierul Șega"
+    ],
+    [
+      "77.",
+      "3.",
+      "cod 19-06",
+      "Locul de joacă cod 19-06 - Cartierul Șega - Calea\nAurel Vlaicu, între Blocul I5-1 Scara F și Blocul\nI4-1",
+      "Cartierul Șega"
+    ],
+    [
+      "78.",
+      "4.",
+      "cod 19-01",
+      "Locul de joacă cod 19-01 - Cartierul Șega - Calea\nAurel Vlaicu intersecție cu Strada Făt Frumos, în\nfața Blocului 2A Scara C, respectiv lângă stația\nGazprom",
+      "Cartierul Șega"
+    ],
+    [
+      "79.",
+      "5.",
+      "cod 19-07",
+      "Locul de joacă cod 19-07 - Cartierul Șega -\nStrada Inului intersecție cu Strada Cocorilor, în\nfața Blocului C",
+      "Cartierul Șega"
+    ],
+    [
+      "80.",
+      "6.",
+      "cod 19-04",
+      "Locul de joacă cod 19-04 - Cartierul Șega -\nStrada Maramureș, în lateralul Blocului X21\nScara A și Blocului X22 Scara B - curte\ninterioară",
+      "Cartierul Șega"
+    ],
+    [
+      "81.",
+      "7.",
+      "cod 19-05",
+      "Locul de joacă cod 19-05 - Cartierul Șega -\nStrada Obedenaru intersecție cu Strada Școalei,\nîn fața Blocului X4 Scara A, respectiv lângă\nmagazinul Lelia's Market",
+      "Cartierul Șega"
+    ]
+  ],
+  "101": [
+    [
+      "Nr. crt.",
+      "Nr.\ncrt./secțiune",
+      "Denumire spațiu de agrement",
+      "Cartier"
+    ],
+    [
+      "0",
+      "",
+      "1",
+      "2"
+    ],
+    [
+      "Secțiunea I. Mese de tenis de masă (ping pong)",
+      null,
+      null,
+      null
+    ],
+    [
+      "1.",
+      "1.",
+      "Strada Cărămidarilor intersecție cu Strada Zorilor, în fața Blocului 2, respectiv pe faleză",
+      "Cartierul Alfa"
+    ],
+    [
+      "2.",
+      "2.",
+      "Strada Tunarilor intersecție cu Strada Luceafărului, în fața Blocului 15 Scara A, respectiv\nlângă Fast Park 1 Strada Luceafărului",
+      "Cartierul Alfa"
+    ],
+    [
+      "3.",
+      "3.",
+      "Strada Paul Chinezul, Școala Gimnazială nr. 2 Ștefan Cicio-Pop",
+      "Cartierul Alfa"
+    ],
+    [
+      "4.",
+      "4.",
+      "Strada Oituz, Școala Gimnazială nr. 3 Iosif Moldovan",
+      "Cartierul Alfa"
+    ],
+    [
+      "5.",
+      "5.",
+      "Strada Barbu Lăutaru intersecție cu Strada Aurel Suciu – 2 bucăți",
+      "Cartierul Alfa"
+    ],
+    [
+      "6.",
+      "6.",
+      "Strada Sulina intersecție cu Strada Muncii",
+      "Cartierul Aradul Nou - partea dreaptă"
+    ],
+    [
+      "7.",
+      "7.",
+      "Strada Posada, în interiorul curții de la Școala Generală Nr. 20 (Liceul Teoretic Adam\nMüller Guttenbrunn)",
+      "Cartierul Aradul Nou - partea stângă"
+    ],
+    [
+      "8.",
+      "8.",
+      "Liceul Teoretic Adam Müller Guttenbrunn",
+      "Cartierul Aradul Nou - partea stângă"
+    ],
+    [
+      "9.",
+      "9.",
+      "Strada Constituției, lângă Școala Generală nr. 20 (Liceul Teoretic Adam Müller\nGuttenbrunn)",
+      "Cartierul Aradul Nou - partea stângă"
+    ],
+    [
+      "10.",
+      "10.",
+      "Strada Independenței, Școala Generală nr. 9",
+      "Cartierul Bujac"
+    ],
+    [
+      "11.",
+      "11.",
+      "Strada Trotușului intersecție cu Strada Petru Maior, lângă spațiul de joacă",
+      "Cartierul Bujac"
+    ],
+    [
+      "12.",
+      "12.",
+      "Strada Dâmboviței",
+      "Cartierul Bujac"
+    ],
+    [
+      "13.",
+      "13.",
+      "Strada Udrea, în spatele Școlii Generale nr. 5 (Liceul Național de Informatică), lângă\nBlocul H",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "14.",
+      "14.",
+      "Strada Udrea, Școala Generală nr. 5 (Liceul Național de Informatică)",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "15.",
+      "15.",
+      "Piața Academician Caius Iacob intersecție cu Strada Nelu Aristide Dragomir, vizavi de\nBlocul R Scara B",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "16.",
+      "16.",
+      "Parcul Copiilor \"Zsolt Torok\" amplasat pe Bulevardul General Dragalina intersecție cu\nStrada Aviator Georgescu",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "17.",
+      "17.",
+      "Parcul Europa amplasat pe Splaiul General David Praporgescu intersecție cu Aleea\nRăsăritului",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "18.",
+      "18.",
+      "Colegiul Național Moise Nicoară, Bulevardul General Dragalina",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "19.",
+      "19.",
+      "Colegiul Național Moise Nicoară, Bulevardul General Dragalina",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "20.",
+      "20.",
+      "Colegiul Național Preparandia Dimitrie Țichindeal, Bulevardul General Dragalina",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "21.",
+      "21.",
+      "Calea Romanilor, lângă Blocul E2",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "22.",
+      "22.",
+      "Strada Patria, Calea Romanilor, lângă Grădinița PP nr. 14",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "23.",
+      "23.",
+      "Piața Sporturilor, lângă Sala Polivalentă",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "24.",
+      "24.",
+      "Aleea Făget (Piața Spitalului), în spatele Blocului 2 Scara A - curte interioară",
+      "Cartierul Centru - partea stângă"
+    ],
+    [
+      "25.",
+      "25.",
+      "Parcul Corneliu Coposu amplasat pe Strada Corneliu intersecție cu Strada Miron Costin, în\nspatele Casei de Cultură a Sindicatelor",
+      "Cartierul Centru - partea stângă"
+    ],
+    [
+      "26.",
+      "26.",
+      "Strada Episcopiei, Școala Gimnazială nr. 1 Mihai Eminescu",
+      "Cartierul Centru - partea stângă"
+    ],
+    [
+      "27.",
+      "27.",
+      "Bulevardul Ștefan Augustin Doinaș, Școala Generală nr. 4 Ioan Slavici (Colegiul Național\nVasile Goldiș)",
+      "Cartierul Centru - partea stângă"
+    ],
+    [
+      "28.",
+      "28.",
+      "Parcul Gai amplasat pe Strada Dunării intersecție cu Strada Hatman Arbore",
+      "Cartierul Gai"
+    ],
+    [
+      "29.",
+      "29.",
+      "Strada Grădinarilor, Școala Generală nr. 10",
+      "Cartierul Gai"
+    ],
+    [
+      "30.",
+      "30.",
+      "Aleea Romanța, în spatele Blocului S Scara D, respectiv lângă Școala Gimnazială Nr. 13\nAron Cotruș",
+      "Cartierul Grădiște - partea dreaptă"
+    ],
+    [
+      "31.",
+      "31.",
+      "Strada Petru Rareș, lângă Grădinița PN 10 Mugurel, respectiv în fața Blocului R Scara D",
+      "Cartierul Grădiște - partea dreaptă"
+    ],
+    [
+      "32.",
+      "32.",
+      "Strada Gorunului intersecție cu Strada Rândunicii și Strada Vezuviu",
+      "Cartierul Grădiște - partea stângă"
+    ],
+    [
+      "33.",
+      "33.",
+      "Calea Aurel Vlaicu intersecție cu Strada Făt Frumos, în fața Blocului A1-3, respectiv lângă\nstația Mol",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "34.",
+      "34.",
+      "Calea Aurel Vlaicu intersecție cu Strada Victor Hugo, lângă Blocul Z 13",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "35.",
+      "35.",
+      "Strada Fulgerului, în fața Blocului Z28 Scara D",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "36.",
+      "36.",
+      "Strada Fulgerului, lângă Blocul Z33",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "37.",
+      "37.",
+      "Strada Poetului, lângă spațiul de joacă",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "38.",
+      "38.",
+      "Strada Poetului, Școala Generală nr. 11",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "39.",
+      "39.",
+      "Strada Ursului, în spatele Blocului 2",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "40.",
+      "40.",
+      "Strada Brezoianu lângă spațiul de joacă",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "41.",
+      "41.",
+      "Strada Prof. Dr. Ilarion Felea, Școala Gimnazială nr. 8 Ilarion Felea",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "42.",
+      "42.",
+      "Strada Fulgerului, Școala Generală nr. 21 Aurel Vlaicu",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "43.",
+      "43.",
+      "Strada Abrud, lângă Blocul 159",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "44.",
+      "44.",
+      "Strada Simfoniei, între Blocul 199 Scara B și Blocul 196 , respectiv în spatele Blocului\n190 Scara B",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "45.",
+      "45.",
+      "Strada Simfoniei, între Blocul 199 Scara B și Blocul 196 , respectiv în spatele Blocului\n190 Scara B",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "46.",
+      "46.",
+      "Strada Săvârșin, în fața Blocului 173 Scara B",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "47.",
+      "47.",
+      "Strada Milova, în curtea Școlii Generale Regina Maria, respectiv în lateralul Blocului 155",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "48.",
+      "48.",
+      "Strada Simion Popa intersecție cu Strada Pășunii, în lateralul Blocului 229 Scara A",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "49.",
+      "49.",
+      "Strada Mioriței, în spatele Blocului 164 Scara A - curte interioară",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "50.",
+      "50.",
+      "Splaiul General Gheorghe Magheru Nr. 363 intersecție cu Strada Alexandru T. Stamatiad,\nlângă podul rutier Micălaca - Bulevardul Nicolae Titulescu, lângă Gemi Center, respectiv\nîn lateralul Blocului 362 Scara A",
+      "Cartierul Micălaca - Zona 300"
+    ],
+    [
+      "51.",
+      "51.",
+      "Splaiul General Gheorghe Magheru intersecție cu Strada Dr. Cornel Radu, vizavi de sediul\nOCPI Arad, respectiv lângă Blocul 331 Scara B",
+      "Cartierul Micălaca - Zona 300"
+    ],
+    [
+      "52.",
+      "52.",
+      "Strada Alexandru T. Stamatiad intersecție cu Strada Nicolae Titulescu, lângă Blocul ANL\n6, respectiv în spatele stației Lukoil",
+      "Cartierul Micălaca - Zona 300"
+    ],
+    [
+      "53.",
+      "53.",
+      "Strada Alba Iulia, între Blocul 581 și Blocul 582",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ],
+    [
+      "54.",
+      "54.",
+      "Strada Tușnad, în spatele Blocului 506 Scara C",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ]
+  ],
+  "102": [
+    [
+      "Nr. crt.",
+      "Nr.\ncrt./secțiune",
+      "Denumire spațiu de agrement",
+      "Cartier"
+    ],
+    [
+      "0",
+      "",
+      "1",
+      "2"
+    ],
+    [
+      "55.",
+      "55.",
+      "Strada Nucet, Școala Gimnazială nr. 22 Caius Iacob",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ],
+    [
+      "56.",
+      "56.",
+      "Parcul Sfânta Maria amplasat pe Strada Dreptății",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ],
+    [
+      "57.",
+      "57.",
+      "Parcul Sfânta Maria amplasat pe Strada Dreptății",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ],
+    [
+      "58.",
+      "58.",
+      "Strada Steagului, Școala Generală nr. 7",
+      "Cartierul Sânnicolaul Mic"
+    ],
+    [
+      "59.",
+      "59.",
+      "Aleea Amara, lângă Blocurile X37-X38",
+      "Cartierul Șega"
+    ],
+    [
+      "60.",
+      "60.",
+      "Aleea Predeal, lângă Blocul G3",
+      "Cartierul Șega"
+    ],
+    [
+      "61.",
+      "61.",
+      "Strada Inului intersecție cu Strada Cocorilor, în fața Blocului C",
+      "Cartierul Șega"
+    ],
+    [
+      "62.",
+      "62.",
+      "Strada Hațeg, Școala Gimnazială nr. 6",
+      "Cartierul Șega"
+    ],
+    [
+      "63.",
+      "63.",
+      "Strada Vasile Conta, Școala Gimnazială nr. 18 Avram Iancu",
+      "Cartierul Șega"
+    ],
+    [
+      "Secțiunea II. Mese de șah",
+      null,
+      null,
+      null
+    ],
+    [
+      "64.",
+      "1.",
+      "Strada Izoi, lângă Grădinița PS nr. 2",
+      "Cartierul 6 Vânători"
+    ],
+    [
+      "65.",
+      "2.",
+      "Strada Cărămidarilor intersecție cu Strada Zorilor, în fața Blocului 2, respectiv pe faleză",
+      "Cartierul Alfa"
+    ],
+    [
+      "66.",
+      "3.",
+      "Strada Cărămidarilor, lângă Blocul 12",
+      "Cartierul Alfa"
+    ],
+    [
+      "67.",
+      "4.",
+      "Strada Simion Popa Blocul 146 (relocat de pe Strada Cărămidarilor Blocul 5)",
+      "Cartierul Alfa"
+    ],
+    [
+      "68.",
+      "5.",
+      "Strada Barbu Lăutaru intersecție cu Strada Aurel Suciu – 4 bucăți",
+      "Cartierul Alfa"
+    ],
+    [
+      "69.",
+      "6.",
+      "Strada Caransebeș intersecție cu Strada Zimbrului",
+      "Cartierul Aradul Nou - partea dreaptă"
+    ],
+    [
+      "70.",
+      "7.",
+      "Aleea Muncii, lângă Blocul 3-4",
+      "Cartierul Aradul Nou - partea dreaptă"
+    ],
+    [
+      "71.",
+      "8.",
+      "Strada Independenței intersecție cu Strada Năsăud",
+      "Cartierul Bujac"
+    ],
+    [
+      "72.",
+      "9.",
+      "Strada Trotușului intersecție cu Strada Petru Maior",
+      "Cartierul Bujac"
+    ],
+    [
+      "73.",
+      "10.",
+      "Piața Academician Caius Iacob intersecție cu Strada Nelu Aristide Dragomir, vizavi de\nBlocul R Scara B",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "74.",
+      "11.",
+      "Parcul Mihai Eminescu",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "75.",
+      "12.",
+      "Strada Ioan Suciu, lângă Blocul 5",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "76.",
+      "13.",
+      "Strada Patria, Calea Romanilor",
+      "Cartierul Centru - partea dreaptă"
+    ],
+    [
+      "77.",
+      "14.",
+      "Aleea Făget (Piața Spitalului), în spatele Blocului 2 Scara A - curte interioară",
+      "Cartierul Centru - partea stângă"
+    ],
+    [
+      "78.",
+      "15.",
+      "Piața Mică, zona Funcționarilor",
+      "Cartierul Centru - partea stângă"
+    ],
+    [
+      "79.",
+      "16.",
+      "Bulevardul Ștefan Augustin Doinaș (relocat de pe Strada Carol Davila la Blocurile dinspre\nBulevardul Revoluției)",
+      "Cartierul Centru - partea stângă"
+    ],
+    [
+      "80.",
+      "17.",
+      "Parcul Gai amplasat pe Strada Dunării intersecție cu Strada Hatman Arbore",
+      "Cartierul Gai"
+    ],
+    [
+      "81.",
+      "18.",
+      "Strada Bogdan Voievod, lângă blocuri",
+      "Cartierul Gai"
+    ],
+    [
+      "82.",
+      "19.",
+      "Strada Petru Rareș, lângă Grădinița PN 10 Mugurel, respectiv în fața Blocului R Scara D",
+      "Cartierul Grădiște - partea dreaptă"
+    ],
+    [
+      "83.",
+      "20.",
+      "Strada Ion Budai-Deleanu, Piața Carpați, lângă stația Petrom",
+      "Cartierul Grădiște - partea dreaptă"
+    ],
+    [
+      "84.",
+      "21.",
+      "Strada Gorunului intersecție cu Strada Rândunicii și Strada Vezuviu",
+      "Cartierul Grădiște - partea stângă"
+    ],
+    [
+      "85.",
+      "22.",
+      "Calea Aurel Vlaicu intersecție cu Strada Făt Frumos, în fața Blocului A1-3, respectiv lângă\nstația Mol",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "86.",
+      "23.",
+      "Calea Aurel Vlaicu intersecție cu Strada Făt Frumos, în fața Blocului A1-3, respectiv lângă\nstația Mol",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "87.",
+      "24.",
+      "Calea Aurel Vlaicu, lângă Blocul Z25",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "88.",
+      "25.",
+      "Aleea Saturn, în spatele Blocului A12 Scara A - curte interioară",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "89.",
+      "26.",
+      "Strada Poetului intersecție cu Aleea Saturn, în fața Blocului A22 Scara B, lângă sensul\ngiratoriu",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "90.",
+      "27.",
+      "Strada Fluturilor, lângă Blocul 12",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "91.",
+      "28.",
+      "Strada Făt-Frumos, lângă Blocul A 4",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "92.",
+      "29.",
+      "Piața UTA – Colonia UTA",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "93.",
+      "30.",
+      "Calea Aurel Vlaicu, Piața UTA, în spatele Blocului U 3",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "94.",
+      "31.",
+      "Strada Munteniei, lângă spațiul de joacă",
+      "Cartierul I. G. Duca"
+    ],
+    [
+      "95.",
+      "32.",
+      "Strada Voinicilor, lângă magazinul Profi",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "96.",
+      "33.",
+      "Strada Mioriței, lângă Blocul 159",
+      "Cartierul Micălaca - Zona 100-200"
+    ],
+    [
+      "97.",
+      "34.",
+      "Splaiul General Gheorghe Magheru, adiacent scuarului de pe Strada Alexandru T.\nStamatiad",
+      "Cartierul Micălaca - Zona 300"
+    ],
+    [
+      "98.",
+      "35.",
+      "Bulevardul Nicolae Titulescu intersecție cu Strada Gheorghe Ciuhandru, lângă Blocurile\nANL",
+      "Cartierul Micălaca - Zona 300"
+    ],
+    [
+      "99.",
+      "36.",
+      "Strada Alexandru T. Stamatiad",
+      "Cartierul Micălaca - Zona 300"
+    ],
+    [
+      "100.",
+      "37.",
+      "Parcul Sfânta Maria amplasat pe Strada Dreptății",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ],
+    [
+      "101.",
+      "38.",
+      "Strada Batiștei, lângă Blocul 538",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ],
+    [
+      "102.",
+      "39.",
+      "Strada Batiștei, vizavi de Blocul 556",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ],
+    [
+      "103.",
+      "40.",
+      "Strada Zalău, între Blocul 504 și Blocul 528, respectiv în fața Blocului 527 Scara A",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ],
+    [
+      "104.",
+      "41.",
+      "Strada Felix, lângă Blocul 702 scara B",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ],
+    [
+      "105.",
+      "42.",
+      "Strada Flacăra",
+      "Cartierul Sânnicolaul Mic"
+    ],
+    [
+      "106.",
+      "43.",
+      "Aleea Amara, lângă Blocul X38",
+      "Cartierul Șega"
+    ],
+    [
+      "107.",
+      "44.",
+      "Aleea Hipocrat",
+      "Cartierul Șega"
+    ],
+    [
+      "108.",
+      "45.",
+      "Aleea Predeal, în spatele Blocului 2B Scara A, respectiv lângă magazinul Remarkt",
+      "Cartierul Șega"
+    ],
+    [
+      "109.",
+      "46.",
+      "Strada Maramureș, în lateralul Blocului X21 Scara A și Blocului X22 Scara B - curte\ninterioară",
+      "Cartierul Șega"
+    ],
+    [
+      "110.",
+      "47.",
+      "Strada Inului intersecție cu Strada Cocorilor, în fața Blocului C",
+      "Cartierul Șega"
+    ],
+    [
+      "Secțiunea III. Aparate de fitness",
+      null,
+      null,
+      null
+    ],
+    [
+      "111.",
+      "1.",
+      "Parcul Zona 300 amplasat Bulevardul Nicolae Titulescu",
+      "Cartierul Micălaca - Zona 300"
+    ],
+    [
+      "112.",
+      "2.",
+      "Strada Ilie Măduță, între Blocul 327 Scara A și Blocul 326 Scara B",
+      "Cartierul Micălaca - Zona 300"
+    ],
+    [
+      "113.",
+      "3.",
+      "Strada Barbu Lăutaru intersecție cu Strada Prof. Dr. Aurel Ardelean, între Blocul 49 Scara\nB și Blocul 48 Scara A",
+      "Cartierul Alfa"
+    ],
+    [
+      "Secțiunea IV. Echipamente de agrement (hamace, tiroliene etc.)",
+      null,
+      null,
+      null
+    ],
+    [
+      "114.",
+      "1.",
+      "Parcul Zona 300 amplasat Bulevardul Nicolae Titulescu",
+      "Cartierul Micălaca - Zona 300"
+    ],
+    [
+      "Secțiunea V. Grătare",
+      null,
+      null,
+      null
+    ],
+    [
+      "115.",
+      "1.",
+      "Strada Mărului, în Parcul Strada Mărului",
+      "Cartierul Alfa"
+    ],
+    [
+      "116.",
+      "2.",
+      "Parcul Zona 300 amplasat Bulevardul Nicolae Titulescu",
+      "Cartierul Micălaca - Zona 300"
+    ]
+  ],
+  "103": [
+    [
+      "Nr. crt.",
+      "Denumire teren de sport",
+      "Cartier",
+      "Tip teren"
+    ],
+    [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    [
+      "1.",
+      "Strada Cărămidarilor intersecție cu Strada Zorilor, în fața Blocului 2, respectiv pe faleză",
+      "Cartierul Alfa",
+      "Multifuncțional"
+    ],
+    [
+      "2.",
+      "Strada Cărămidarilor intersecție cu Strada Zorilor, în fața Blocului 2, respectiv pe faleză",
+      "Cartierul Alfa",
+      "Fotbal pe nisip"
+    ],
+    [
+      "3.",
+      "Strada Barbu Lăutaru intersecție cu Strada Aurel Suciu și Strada Luceafărului, în spatele\nBlocului 40 - curte interioară",
+      "Cartierul Alfa",
+      "Fotbal pe tartan"
+    ],
+    [
+      "4.",
+      "Strada Tunarilor intersecție cu Strada Luceafărului, în fața Blocului 15 Scara A, respectiv\nlângă Fast Park 1 Strada Luceafărului",
+      "Cartierul Alfa",
+      "Multifuncțional"
+    ],
+    [
+      "5.",
+      "Strada Tunarilor intersecție cu Strada Luceafărului, în fața Blocului 15 Scara A, respectiv\nlângă Fast Park 1 Strada Luceafărului",
+      "Cartierul Alfa",
+      "Multifuncțional"
+    ],
+    [
+      "6.",
+      "Strada Colonel Caius Miorenescu intersecție cu Strada Posada",
+      "Cartierul Aradul Nou - partea stângă",
+      "Multifuncțional"
+    ],
+    [
+      "7.",
+      "Strada Trotușului intersecție cu Strada Petru Maior",
+      "Cartierul Bujac",
+      "Multifuncțional"
+    ],
+    [
+      "8.",
+      "Strada Trotușului intersecție cu Strada Petru Maior",
+      "Cartierul Bujac",
+      "Fotbal pe nisip"
+    ],
+    [
+      "9.",
+      "Parcul Europa amplasat pe Splaiul General David Praporgescu intersecție cu Aleea\nRăsăritului",
+      "Cartierul Centru - partea dreaptă",
+      "Multifuncțional"
+    ],
+    [
+      "10.",
+      "Piața Academician Caius Iacob intersecție cu Strada Nelu Aristide Dragomir, vizavi de\nBlocul R Scara B",
+      "Cartierul Centru - partea dreaptă",
+      "Multifuncțional"
+    ],
+    [
+      "11.",
+      "Strada Zsigmond Moricz intersecție cu Strada Ioan Budai-Deleanu",
+      "Cartierul Grădiște - partea dreaptă",
+      "Multifuncțional"
+    ],
+    [
+      "12.",
+      "Aleea Saturn, în fața Blocului A11 Scara A - curte interioară",
+      "Cartierul I. G. Duca",
+      "Multifuncțional"
+    ],
+    [
+      "13.",
+      "Strada Poetului intersecție cu Aleea Saturn, în fața Blocului A22 Scara B, lângă sensul\ngiratoriu",
+      "Cartierul I. G. Duca",
+      "Multifuncțional"
+    ],
+    [
+      "14.",
+      "Strada Brezoianu",
+      "Cartierul I. G. Duca",
+      "Multifuncțional"
+    ],
+    [
+      "15.",
+      "Strada Ursului, în spatele Blocului 2",
+      "Cartierul I. G. Duca",
+      "Multifuncțional"
+    ],
+    [
+      "16.",
+      "Strada Alexandru T. Stamatiad intersecție cu Strada Nicolae Titulescu, lângă Blocul ANL\n6, respectiv în spatele stației Lukoil",
+      "Cartierul Micălaca - Zona 300",
+      "Multifuncțional"
+    ],
+    [
+      "17.",
+      "Strada Alexandru T. Stamatiad intersecție cu Strada Nicolae Titulescu, lângă Blocul ANL\n6, respectiv în spatele stației Lukoil",
+      "Cartierul Micălaca - Zona 300",
+      "Fotbal pe tartan"
+    ],
+    [
+      "18.",
+      "Strada Alba Iulia, între Blocul 581 și Blocul 582",
+      "Cartierul Micălaca - Zona 500-600-700",
+      "Multifuncțional"
+    ],
+    [
+      "19.",
+      "Strada Alba Iulia, între Blocul 581 și Blocul 582",
+      "Cartierul Micălaca - Zona 500-600-700",
+      "Fotbal pe nisip"
+    ],
+    [
+      "20.",
+      "Strada Gutuilor, lângă Port Arthur",
+      "Cartierul Mureșel",
+      "Multifuncțional"
+    ],
+    [
+      "21.",
+      "Strada Achile intersecție cu Strada Santinelei",
+      "Cartierul Subcetate",
+      "Multifuncțional"
+    ]
+  ],
+  "104": [
+    [
+      "Nr. crt.",
+      "Denumire loc de joacă pentru câini",
+      "Cartier"
+    ],
+    [
+      "0",
+      "1",
+      "2"
+    ],
+    [
+      "1.",
+      "Parcul Strada Mărului",
+      "Cartierul Alfa"
+    ],
+    [
+      "2.",
+      "Parcul Strada Mărului",
+      "Cartierul Alfa"
+    ],
+    [
+      "3.",
+      "Parcul Zona 300 amplasat Bulevardul Nicolae Titulescu",
+      "Cartierul Micălaca - Zona 300"
+    ],
+    [
+      "4.",
+      "Parcul Sfânta Maria amplasat pe Strada Dreptății",
+      "Cartierul Micălaca - Zona 500-600-700"
+    ]
+  ]
+}

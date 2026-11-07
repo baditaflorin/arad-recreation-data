@@ -1,0 +1,1032 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "sport-001",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2926483,
+          46.1613873
+        ]
+      },
+      "properties": {
+        "id": "sport-001",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "multisport",
+        "subtype_label": "Multifuncțional",
+        "inventory_number": 1,
+        "section_number": null,
+        "code": null,
+        "name": "Multifuncțional 1",
+        "address": "Strada Cărămidarilor intersecție cu Strada Zorilor, în fața Blocului 2, respectiv pe faleză",
+        "location_description": "Strada Cărămidarilor intersecție cu Strada Zorilor, în fața Blocului 2, respectiv pe faleză",
+        "neighborhood": "Cartierul Alfa",
+        "sports_type": "Multifuncțional",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 3,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.1613873,
+        "longitude": 21.2926483,
+        "location_precision": "building_reference",
+        "geocoding_method": "osm_block_identifier_and_street",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/304649315"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/304649315",
+        "geocoding_note": "Reper calculat din clădirea/clădirile OSM care au codul de bloc și strada din descriere. Nu stabilește poziția dotării aflate în față, în spate sau între blocuri.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2926483,
+          46.1613873
+        ]
+      },
+      "properties": {
+        "id": "sport-002",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "football_sand",
+        "subtype_label": "Fotbal pe nisip",
+        "inventory_number": 2,
+        "section_number": null,
+        "code": null,
+        "name": "Fotbal pe nisip 2",
+        "address": "Strada Cărămidarilor intersecție cu Strada Zorilor, în fața Blocului 2, respectiv pe faleză",
+        "location_description": "Strada Cărămidarilor intersecție cu Strada Zorilor, în fața Blocului 2, respectiv pe faleză",
+        "neighborhood": "Cartierul Alfa",
+        "sports_type": "Fotbal pe nisip",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 4,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.1613873,
+        "longitude": 21.2926483,
+        "location_precision": "building_reference",
+        "geocoding_method": "osm_block_identifier_and_street",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/304649315"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/304649315",
+        "geocoding_note": "Reper calculat din clădirea/clădirile OSM care au codul de bloc și strada din descriere. Nu stabilește poziția dotării aflate în față, în spate sau între blocuri.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-003",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2926479,
+          46.1631315
+        ]
+      },
+      "properties": {
+        "id": "sport-003",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "football_tartan",
+        "subtype_label": "Fotbal pe tartan",
+        "inventory_number": 3,
+        "section_number": null,
+        "code": null,
+        "name": "Fotbal pe tartan 3",
+        "address": "Strada Barbu Lăutaru intersecție cu Strada Aurel Suciu și Strada Luceafărului, în spatele Blocului 40 - curte interioară",
+        "location_description": "Strada Barbu Lăutaru intersecție cu Strada Aurel Suciu și Strada Luceafărului, în spatele Blocului 40 - curte interioară",
+        "neighborhood": "Cartierul Alfa",
+        "sports_type": "Fotbal pe tartan",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 5,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.1631315,
+        "longitude": 21.2926479,
+        "location_precision": "building_reference",
+        "geocoding_method": "osm_block_identifier_and_street",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/161883810"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/161883810",
+        "geocoding_note": "Reper calculat din clădirea/clădirile OSM care au codul de bloc și strada din descriere. Nu stabilește poziția dotării aflate în față, în spate sau între blocuri.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-004",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2896907,
+          46.1620402
+        ]
+      },
+      "properties": {
+        "id": "sport-004",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "multisport",
+        "subtype_label": "Multifuncțional",
+        "inventory_number": 4,
+        "section_number": null,
+        "code": null,
+        "name": "Multifuncțional 4",
+        "address": "Strada Tunarilor intersecție cu Strada Luceafărului, în fața Blocului 15 Scara A, respectiv lângă Fast Park 1 Strada Luceafărului",
+        "location_description": "Strada Tunarilor intersecție cu Strada Luceafărului, în fața Blocului 15 Scara A, respectiv lângă Fast Park 1 Strada Luceafărului",
+        "neighborhood": "Cartierul Alfa",
+        "sports_type": "Multifuncțional",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 6,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.1620402,
+        "longitude": 21.2896907,
+        "location_precision": "building_reference",
+        "geocoding_method": "osm_block_identifier_and_street",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/304635454"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/304635454",
+        "geocoding_note": "Reper calculat din clădirea/clădirile OSM care au codul de bloc și strada din descriere. Nu stabilește poziția dotării aflate în față, în spate sau între blocuri.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-005",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2896907,
+          46.1620402
+        ]
+      },
+      "properties": {
+        "id": "sport-005",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "multisport",
+        "subtype_label": "Multifuncțional",
+        "inventory_number": 5,
+        "section_number": null,
+        "code": null,
+        "name": "Multifuncțional 5",
+        "address": "Strada Tunarilor intersecție cu Strada Luceafărului, în fața Blocului 15 Scara A, respectiv lângă Fast Park 1 Strada Luceafărului",
+        "location_description": "Strada Tunarilor intersecție cu Strada Luceafărului, în fața Blocului 15 Scara A, respectiv lângă Fast Park 1 Strada Luceafărului",
+        "neighborhood": "Cartierul Alfa",
+        "sports_type": "Multifuncțional",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 7,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.1620402,
+        "longitude": 21.2896907,
+        "location_precision": "building_reference",
+        "geocoding_method": "osm_block_identifier_and_street",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/304635454"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/304635454",
+        "geocoding_note": "Reper calculat din clădirea/clădirile OSM care au codul de bloc și strada din descriere. Nu stabilește poziția dotării aflate în față, în spate sau între blocuri.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3085008,
+          46.1549984
+        ]
+      },
+      "properties": {
+        "id": "sport-006",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "multisport",
+        "subtype_label": "Multifuncțional",
+        "inventory_number": 6,
+        "section_number": null,
+        "code": null,
+        "name": "Multifuncțional 6",
+        "address": "Strada Colonel Caius Miorenescu intersecție cu Strada Posada",
+        "location_description": "Strada Colonel Caius Miorenescu intersecție cu Strada Posada",
+        "neighborhood": "Cartierul Aradul Nou - partea stângă",
+        "sports_type": "Multifuncțional",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 8,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.1549984,
+        "longitude": 21.3085008,
+        "location_precision": "intersection_reference",
+        "geocoding_method": "osm_named_streets_intersection",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/24525038",
+          "way/24525791"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/24525038",
+        "geocoding_note": "Reper aproximativ al intersecției din descriere, calculat din noduri OSM comune sau apropiate. Nu indică poziția dotării.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-007",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2757556,
+          46.1969331
+        ]
+      },
+      "properties": {
+        "id": "sport-007",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "multisport",
+        "subtype_label": "Multifuncțional",
+        "inventory_number": 7,
+        "section_number": null,
+        "code": null,
+        "name": "Multifuncțional 7",
+        "address": "Strada Trotușului intersecție cu Strada Petru Maior",
+        "location_description": "Strada Trotușului intersecție cu Strada Petru Maior",
+        "neighborhood": "Cartierul Bujac",
+        "sports_type": "Multifuncțional",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 9,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.1969331,
+        "longitude": 21.2757556,
+        "location_precision": "intersection_reference",
+        "geocoding_method": "osm_named_streets_intersection",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/17506928",
+          "way/23919405",
+          "way/23919406",
+          "way/322036104",
+          "way/533841394",
+          "way/670462786"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/17506928",
+        "geocoding_note": "Reper aproximativ al intersecției din descriere, calculat din noduri OSM comune sau apropiate. Nu indică poziția dotării.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-008",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2757556,
+          46.1969331
+        ]
+      },
+      "properties": {
+        "id": "sport-008",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "football_sand",
+        "subtype_label": "Fotbal pe nisip",
+        "inventory_number": 8,
+        "section_number": null,
+        "code": null,
+        "name": "Fotbal pe nisip 8",
+        "address": "Strada Trotușului intersecție cu Strada Petru Maior",
+        "location_description": "Strada Trotușului intersecție cu Strada Petru Maior",
+        "neighborhood": "Cartierul Bujac",
+        "sports_type": "Fotbal pe nisip",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 10,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.1969331,
+        "longitude": 21.2757556,
+        "location_precision": "intersection_reference",
+        "geocoding_method": "osm_named_streets_intersection",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/17506928",
+          "way/23919405",
+          "way/23919406",
+          "way/322036104",
+          "way/533841394",
+          "way/670462786"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/17506928",
+        "geocoding_note": "Reper aproximativ al intersecției din descriere, calculat din noduri OSM comune sau apropiate. Nu indică poziția dotării.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-009",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3311849,
+          46.1786148
+        ]
+      },
+      "properties": {
+        "id": "sport-009",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "multisport",
+        "subtype_label": "Multifuncțional",
+        "inventory_number": 9,
+        "section_number": null,
+        "code": null,
+        "name": "Multifuncțional 9",
+        "address": "Parcul Europa amplasat pe Splaiul General David Praporgescu intersecție cu Aleea Răsăritului",
+        "location_description": "Parcul Europa amplasat pe Splaiul General David Praporgescu intersecție cu Aleea Răsăritului",
+        "neighborhood": "Cartierul Centru - partea dreaptă",
+        "sports_type": "Multifuncțional",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 11,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.1786148,
+        "longitude": 21.3311849,
+        "location_precision": "park_reference",
+        "geocoding_method": "osm_named_landmark",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/16076528"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/16076528",
+        "geocoding_note": "Reper calculat din parcul numit în descriere, pe baza geometriei OSM; poziția dotării în interior nu este stabilită.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-010",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3252275,
+          46.1858572
+        ]
+      },
+      "properties": {
+        "id": "sport-010",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "multisport",
+        "subtype_label": "Multifuncțional",
+        "inventory_number": 10,
+        "section_number": null,
+        "code": null,
+        "name": "Multifuncțional 10",
+        "address": "Piața Academician Caius Iacob intersecție cu Strada Nelu Aristide Dragomir, vizavi de Blocul R Scara B",
+        "location_description": "Piața Academician Caius Iacob intersecție cu Strada Nelu Aristide Dragomir, vizavi de Blocul R Scara B",
+        "neighborhood": "Cartierul Centru - partea dreaptă",
+        "sports_type": "Multifuncțional",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 12,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.1858572,
+        "longitude": 21.3252275,
+        "location_precision": "intersection_reference",
+        "geocoding_method": "osm_named_streets_intersection",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/1072706097",
+          "way/15556061",
+          "way/472284146"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/1072706097",
+        "geocoding_note": "Reper aproximativ al intersecției din descriere, calculat din noduri OSM comune sau apropiate. Nu indică poziția dotării.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-011",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3353583,
+          46.1947259
+        ]
+      },
+      "properties": {
+        "id": "sport-011",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "multisport",
+        "subtype_label": "Multifuncțional",
+        "inventory_number": 11,
+        "section_number": null,
+        "code": null,
+        "name": "Multifuncțional 11",
+        "address": "Strada Zsigmond Moricz intersecție cu Strada Ioan Budai-Deleanu",
+        "location_description": "Strada Zsigmond Moricz intersecție cu Strada Ioan Budai-Deleanu",
+        "neighborhood": "Cartierul Grădiște - partea dreaptă",
+        "sports_type": "Multifuncțional",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 13,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.1947259,
+        "longitude": 21.3353583,
+        "location_precision": "osm_amenity_center",
+        "geocoding_method": "osm_typed_amenity_near_text_anchor",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/1460282767",
+          "way/16775403",
+          "way/22790594"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/1460282767",
+        "geocoding_note": "Potrivire dedusă: obiect OSM de același tip, asociat cu reperul din descriere. Coordonată OSM sau centru calculat al obiectului; identitatea nu a fost verificată pe teren.",
+        "geocoding_anchor_distance_m": 26.1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-012",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2944022,
+          46.2013503
+        ]
+      },
+      "properties": {
+        "id": "sport-012",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "multisport",
+        "subtype_label": "Multifuncțional",
+        "inventory_number": 12,
+        "section_number": null,
+        "code": null,
+        "name": "Multifuncțional 12",
+        "address": "Aleea Saturn, în fața Blocului A11 Scara A - curte interioară",
+        "location_description": "Aleea Saturn, în fața Blocului A11 Scara A - curte interioară",
+        "neighborhood": "Cartierul I. G. Duca",
+        "sports_type": "Multifuncțional",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 14,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.2013503,
+        "longitude": 21.2944022,
+        "location_precision": "building_reference",
+        "geocoding_method": "osm_block_identifier_and_street",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/304965500"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/304965500",
+        "geocoding_note": "Reper calculat din clădirea/clădirile OSM care au codul de bloc și strada din descriere. Nu stabilește poziția dotării aflate în față, în spate sau între blocuri.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-013",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2965052,
+          46.2035445
+        ]
+      },
+      "properties": {
+        "id": "sport-013",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "multisport",
+        "subtype_label": "Multifuncțional",
+        "inventory_number": 13,
+        "section_number": null,
+        "code": null,
+        "name": "Multifuncțional 13",
+        "address": "Strada Poetului intersecție cu Aleea Saturn, în fața Blocului A22 Scara B, lângă sensul giratoriu",
+        "location_description": "Strada Poetului intersecție cu Aleea Saturn, în fața Blocului A22 Scara B, lângă sensul giratoriu",
+        "neighborhood": "Cartierul I. G. Duca",
+        "sports_type": "Multifuncțional",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 15,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.2035445,
+        "longitude": 21.2965052,
+        "location_precision": "building_reference",
+        "geocoding_method": "osm_block_identifier_and_street",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/304966604"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/304966604",
+        "geocoding_note": "Reper calculat din clădirea/clădirile OSM care au codul de bloc și strada din descriere. Nu stabilește poziția dotării aflate în față, în spate sau între blocuri.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-014",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3004782,
+          46.2028601
+        ]
+      },
+      "properties": {
+        "id": "sport-014",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "multisport",
+        "subtype_label": "Multifuncțional",
+        "inventory_number": 14,
+        "section_number": null,
+        "code": null,
+        "name": "Multifuncțional 14",
+        "address": "Strada Brezoianu",
+        "location_description": "Strada Brezoianu",
+        "neighborhood": "Cartierul I. G. Duca",
+        "sports_type": "Multifuncțional",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 16,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.2028601,
+        "longitude": 21.3004782,
+        "location_precision": "street_reference",
+        "geocoding_method": "osm_named_street_reference",
+        "geocoding_confidence": "low",
+        "geocoding_reference_ids": [
+          "way/24510437",
+          "way/688521400"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/24510437",
+        "geocoding_note": "Nod OSM reprezentativ al străzii numite în descriere. Blocul sau echipamentul nu a fost identificat; reperul poate fi departe de amplasamentul exact. Nu folosi pentru navigație la echipament.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-015",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3019391,
+          46.2000586
+        ]
+      },
+      "properties": {
+        "id": "sport-015",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "multisport",
+        "subtype_label": "Multifuncțional",
+        "inventory_number": 15,
+        "section_number": null,
+        "code": null,
+        "name": "Multifuncțional 15",
+        "address": "Strada Ursului, în spatele Blocului 2",
+        "location_description": "Strada Ursului, în spatele Blocului 2",
+        "neighborhood": "Cartierul I. G. Duca",
+        "sports_type": "Multifuncțional",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 17,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.2000586,
+        "longitude": 21.3019391,
+        "location_precision": "building_reference",
+        "geocoding_method": "osm_block_identifier_and_street",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/304700924"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/304700924",
+        "geocoding_note": "Reper calculat din clădirea/clădirile OSM care au codul de bloc și strada din descriere. Nu stabilește poziția dotării aflate în față, în spate sau între blocuri.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-016",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3459501,
+          46.170486
+        ]
+      },
+      "properties": {
+        "id": "sport-016",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "multisport",
+        "subtype_label": "Multifuncțional",
+        "inventory_number": 16,
+        "section_number": null,
+        "code": null,
+        "name": "Multifuncțional 16",
+        "address": "Strada Alexandru T. Stamatiad intersecție cu Strada Nicolae Titulescu, lângă Blocul ANL 6, respectiv în spatele stației Lukoil",
+        "location_description": "Strada Alexandru T. Stamatiad intersecție cu Strada Nicolae Titulescu, lângă Blocul ANL 6, respectiv în spatele stației Lukoil",
+        "neighborhood": "Cartierul Micălaca - Zona 300",
+        "sports_type": "Multifuncțional",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 18,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.170486,
+        "longitude": 21.3459501,
+        "location_precision": "building_reference",
+        "geocoding_method": "osm_block_identifier_and_street",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/304937571"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/304937571",
+        "geocoding_note": "Reper calculat din clădirea/clădirile OSM care au codul de bloc și strada din descriere. Nu stabilește poziția dotării aflate în față, în spate sau între blocuri.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-017",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3459501,
+          46.170486
+        ]
+      },
+      "properties": {
+        "id": "sport-017",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "football_tartan",
+        "subtype_label": "Fotbal pe tartan",
+        "inventory_number": 17,
+        "section_number": null,
+        "code": null,
+        "name": "Fotbal pe tartan 17",
+        "address": "Strada Alexandru T. Stamatiad intersecție cu Strada Nicolae Titulescu, lângă Blocul ANL 6, respectiv în spatele stației Lukoil",
+        "location_description": "Strada Alexandru T. Stamatiad intersecție cu Strada Nicolae Titulescu, lângă Blocul ANL 6, respectiv în spatele stației Lukoil",
+        "neighborhood": "Cartierul Micălaca - Zona 300",
+        "sports_type": "Fotbal pe tartan",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 19,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.170486,
+        "longitude": 21.3459501,
+        "location_precision": "building_reference",
+        "geocoding_method": "osm_block_identifier_and_street",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/304937571"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/304937571",
+        "geocoding_note": "Reper calculat din clădirea/clădirile OSM care au codul de bloc și strada din descriere. Nu stabilește poziția dotării aflate în față, în spate sau între blocuri.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3486607,
+          46.1693536
+        ]
+      },
+      "properties": {
+        "id": "sport-018",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "multisport",
+        "subtype_label": "Multifuncțional",
+        "inventory_number": 18,
+        "section_number": null,
+        "code": null,
+        "name": "Multifuncțional 18",
+        "address": "Strada Alba Iulia, între Blocul 581 și Blocul 582",
+        "location_description": "Strada Alba Iulia, între Blocul 581 și Blocul 582",
+        "neighborhood": "Cartierul Micălaca - Zona 500-600-700",
+        "sports_type": "Multifuncțional",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 20,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.1693536,
+        "longitude": 21.3486607,
+        "location_precision": "building_reference",
+        "geocoding_method": "osm_block_identifier_and_street",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/303473195",
+          "way/303473324"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/303473195",
+        "geocoding_note": "Reper calculat din clădirea/clădirile OSM care au codul de bloc și strada din descriere. Nu stabilește poziția dotării aflate în față, în spate sau între blocuri.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-019",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3486607,
+          46.1693536
+        ]
+      },
+      "properties": {
+        "id": "sport-019",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "football_sand",
+        "subtype_label": "Fotbal pe nisip",
+        "inventory_number": 19,
+        "section_number": null,
+        "code": null,
+        "name": "Fotbal pe nisip 19",
+        "address": "Strada Alba Iulia, între Blocul 581 și Blocul 582",
+        "location_description": "Strada Alba Iulia, între Blocul 581 și Blocul 582",
+        "neighborhood": "Cartierul Micălaca - Zona 500-600-700",
+        "sports_type": "Fotbal pe nisip",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 21,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.1693536,
+        "longitude": 21.3486607,
+        "location_precision": "building_reference",
+        "geocoding_method": "osm_block_identifier_and_street",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/303473195",
+          "way/303473324"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/303473195",
+        "geocoding_note": "Reper calculat din clădirea/clădirile OSM care au codul de bloc și strada din descriere. Nu stabilește poziția dotării aflate în față, în spate sau între blocuri.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-020",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3083895,
+          46.1595619
+        ]
+      },
+      "properties": {
+        "id": "sport-020",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "multisport",
+        "subtype_label": "Multifuncțional",
+        "inventory_number": 20,
+        "section_number": null,
+        "code": null,
+        "name": "Multifuncțional 20",
+        "address": "Strada Gutuilor, lângă Port Arthur",
+        "location_description": "Strada Gutuilor, lângă Port Arthur",
+        "neighborhood": "Cartierul Mureșel",
+        "sports_type": "Multifuncțional",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 22,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.1595619,
+        "longitude": 21.3083895,
+        "location_precision": "street_reference",
+        "geocoding_method": "osm_named_street_reference",
+        "geocoding_confidence": "low",
+        "geocoding_reference_ids": [
+          "way/24524683"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/24524683",
+        "geocoding_note": "Nod OSM reprezentativ al străzii numite în descriere. Blocul sau echipamentul nu a fost identificat; reperul poate fi departe de amplasamentul exact. Nu folosi pentru navigație la echipament.",
+        "geocoding_anchor_distance_m": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sport-021",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3347856,
+          46.1622618
+        ]
+      },
+      "properties": {
+        "id": "sport-021",
+        "category": "sports_fields",
+        "category_label": "Terenuri de sport",
+        "subtype": "multisport",
+        "subtype_label": "Multifuncțional",
+        "inventory_number": 21,
+        "section_number": null,
+        "code": null,
+        "name": "Multifuncțional 21",
+        "address": "Strada Achile intersecție cu Strada Santinelei",
+        "location_description": "Strada Achile intersecție cu Strada Santinelei",
+        "neighborhood": "Cartierul Subcetate",
+        "sports_type": "Multifuncțional",
+        "quantity_explicit": null,
+        "inventory_date": "2026-06-08",
+        "source_section": "Terenuri de sport",
+        "source_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=",
+        "source_page": 103,
+        "source_page_url": "https://www.primariaarad.ro/dm_arad/2026/hotarari.nsf/68ED6FAFE192EBCAC2258E51002CA3B3/$FILE/453%20H%20din%2010%2008%202026%20Anexa%203%20Caiet%20de%20sarcini.pdf?Open=#page=103",
+        "source_table_row": 23,
+        "source_sha256": "fb4d40efec5a77375f771a1ea3c7b469efbfbf305876a5e5bea65216fc9a232a",
+        "public_access": "not_verified",
+        "access_note": "Accesul și starea de funcționare nu au fost verificate.",
+        "quality_notes": [],
+        "latitude": 46.1622618,
+        "longitude": 21.3347856,
+        "location_precision": "intersection_reference",
+        "geocoding_method": "osm_named_streets_intersection",
+        "geocoding_confidence": "medium",
+        "geocoding_reference_ids": [
+          "way/24310216",
+          "way/24310300"
+        ],
+        "geocoding_source_url": "https://www.openstreetmap.org/way/24310216",
+        "geocoding_note": "Reper aproximativ al intersecției din descriere, calculat din noduri OSM comune sau apropiate. Nu indică poziția dotării.",
+        "geocoding_anchor_distance_m": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "query": "[out:json][timeout:90];(\nnwr[\"leisure\"](46.115,21.235,46.23,21.405);\nnwr[\"sport\"](46.115,21.235,46.23,21.405);\nnwr[\"amenity\"~\"^(school|college|university|bbq|place_of_worship)$\"](46.115,21.235,46.23,21.405);\nnwr[\"addr:housenumber\"](46.115,21.235,46.23,21.405);\nway[\"highway\"][\"name\"](46.115,21.235,46.23,21.405);\n);out geom;",
+  "retrieved_at": "2026-11-07T16:41:32.085226+00:00",
+  "timestamp_osm_base": "2026-11-07T16:40:21Z",
+  "sha256": "22c7463019a8cbb29429bf3c9c21bf84a718c3477c87503a4cecbc75f28618fe",
+  "license": "ODbL-1.0",
+  "attribution": "© OpenStreetMap contributors"
+}

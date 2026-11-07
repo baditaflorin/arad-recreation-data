@@ -1,0 +1,40 @@
+{
+  "version": "1.0.0",
+  "encoding": "UTF-8",
+  "crs": "WGS84 EPSG:4326",
+  "granularity": "One source inventory row; retain separate rows sharing an address or coordinates.",
+  "nulls": "JSON null / empty CSV cell = unknown or not applicable; not zero.",
+  "fields": {
+    "id": "Stable category + source code/number; playground codes are preserved.",
+    "category": [
+      "playgrounds",
+      "leisure",
+      "sports_fields",
+      "dog_parks"
+    ],
+    "subtype": "Machine-readable amenity or sports type.",
+    "inventory_number": "Original row number within its inventory.",
+    "section_number": "Original row number within its neighborhood/leisure section, where printed.",
+    "code": "Official source playground code; null in other inventories.",
+    "name": "Generated short label, not an additional official name.",
+    "address": "Source location text with only the repetitive playground prefix removed.",
+    "location_description": "Full original source cell, whitespace normalized.",
+    "neighborhood": "Original source neighborhood, including apparent inconsistencies.",
+    "quantity_explicit": "Integer only when the description explicitly states N bucăți; never inferred from row counts.",
+    "inventory_date": "Date printed on the inventory; not download date.",
+    "source_page": "1-based page number in the 107-page PDF, not annex-internal pagination.",
+    "source_table_row": "1-based row of the extracted PDF table, including its headers.",
+    "source_sha256": "SHA-256 of the original PDF bytes.",
+    "latitude": "Point latitude, degrees; null when unresolved.",
+    "longitude": "Point longitude, degrees; null when unresolved.",
+    "location_precision": "osm_amenity_point / osm_amenity_center / park_reference / school_reference / building_reference / intersection_reference / street_reference / unknown. All are inferred, not survey coordinates.",
+    "geocoding_reference_ids": "List of OSM type/id identifiers supporting this location.",
+    "geocoding_method": "Deterministic matching method; see scripts/geocode_osm.py.",
+    "geocoding_note": "Human-readable explanation, including why a location is approximate or unresolved.",
+    "geocoding_source_url": "OSM reference object URL, never an invented coordinate source.",
+    "geocoding_anchor_distance_m": "Distance from matched amenity point/center to textual reference anchor, when applicable.",
+    "geocoding_confidence": "Qualitative matching confidence (high/medium/low/unresolved), not a statistical probability.",
+    "public_access": "Always not_verified for this snapshot.",
+    "quality_notes": "Array of source issues; JSON-encoded in CSV."
+  }
+}
